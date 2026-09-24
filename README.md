@@ -79,7 +79,3 @@ composer run test
 - `resources/views/`: plantillas Blade y componentes de página.
 - `resources/css/` y `resources/js/`: estilos y comportamiento del frontend.
 - `public/img/`: imágenes del sitio.
-
-## Licencia
-
-Este repositorio no especifica todavía una licencia propia. Añade un archivo `LICENSE` si quieres definir las condiciones de uso y distribución del proyecto.
